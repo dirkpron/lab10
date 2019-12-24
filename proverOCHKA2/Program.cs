@@ -9,7 +9,7 @@ namespace proverOCHKA2
     class Program{
         static void Main(string[] args){
             Console.WriteLine("Hello GitHubus");
-            Console.WriteLine("Проверка изменений на сервере");
+            Console.WriteLine("Проверка изменений на сервеск");
             Console.WriteLine("Проверка командной работы");
         }
     }
