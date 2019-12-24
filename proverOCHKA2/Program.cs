@@ -8,7 +8,7 @@ namespace proverOCHKA2
 {
     class Program{
         static void Main(string[] args){
-            Console.WriteLine("Hello GitHuberi");
+            Console.WriteLine("Hello GitHub");
             Console.WriteLine("Проверка изменений на сервере");
         }
     }
